@@ -1,3 +1,4 @@
-./ai_1.iml
-./.mvn
-./.idea
+ai_1.iml
+.mvn
+.idea
+target
